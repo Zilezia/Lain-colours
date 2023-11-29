@@ -1,0 +1,107 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+    box-sizing: border-box;
+    list-style: none;
+}
+body
+{
+    background: #222;
+    color: #fff;
+}
+
+.container
+{
+    width: 90%;
+    max-width: 900px;
+    margin: 12% auto;
+}
+.colours
+{
+    display: flex;
+}
+
+.title
+{
+    text-align: center;
+    margin-block: 15px;
+    /* border: 1px solid violet; */
+}
+
+.colour
+{
+    width: 25%;
+    /* border: 1px solid blue; */
+}
+
+.actual-colour
+{
+    cursor: pointer;
+    width: 100%;
+    height: 180px;
+    /* border: 1px solid red; */
+}
+.desc
+{
+    width: 100%;
+    height: 70px;
+    padding: 10px;
+    background: #000;
+    color: #fff;
+    font-size: 15px;
+    margin-top: 5px;
+    text-align: center;
+    border: 0;
+    outline: 0;
+    
+    /* border: 1px solid white; */
+}
+
+
+
+/* Coloours vvv */
+
+#smooth-thigh
+{
+    background: #FEF3D7;
+}
+#cranberries
+{
+    background: #0C0002;
+}
+#lain
+{
+    background: #8941AD;
+}
+#vanity
+{
+    background: #CC5446;
+}
+#twilight
+{
+    background: #EBE6E3;
+}
+
+#blackbird
+{
+    background: #000105;
+}
+#ten
+{
+    background: #380C29;
+    color: #380C29;
+}
+#materialize
+{
+    background: #DE6AA2;
+}
+#vgirl
+{
+    background: #ECB2B7;
+}
+#creme
+{
+    background: #FFF5D6;
+}
