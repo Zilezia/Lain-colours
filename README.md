@@ -2,13 +2,13 @@
 
 only hex code for now
 
-1:
+1:  <br>
     #000105 <br>
     #380C29 <br>
     #DE6AA2 <br>
     #ECB2B7 <br>
     #FFF5D6 <br>
-2:
+2: <br>
     #FEF3D7 <br>
     #0C0002 <br>
     #8941AD <br>
